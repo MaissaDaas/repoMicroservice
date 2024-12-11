@@ -1,7 +1,7 @@
 eureka:
   client:
     serviceurl:
-      defaultZone:http://localhost:9993/Eureka
+      defaultZone: http://localhost:9993/Eureka
 spring:
   cloud:
       gateway:
